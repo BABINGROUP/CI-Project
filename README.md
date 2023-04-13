@@ -28,3 +28,39 @@ Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextA
 
 
 HTML & CSS Full Course - Beginner to Pro https://www.youtube.com/watch?v=G3e-cpL7ofc
+
+Complete MySQL Beginner to Expert https://www.youtube.com/watch?v=en6YPAgc6WM
+
+SQL Injection Master Training Course https://www.youtube.com/watch?v=nj-EOZbb7Vw
+
+Computer Networking Full Course in One Video | Full Tutorial for Beginners to Expert [HINDI] https://www.youtube.com/watch?v=L3ZzkOTDins
+
+DevOps Bootcamp Announcement - Get 40+ LPA Base Package https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak
+
+
+CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours https://www.youtube.com/watch?v=n4R2E7O-Ngo
+
+
+The Ultimate Excel Tutorial - Beginner to Advanced - 5 Hours! https://www.youtube.com/watch?v=TpOIGij43AA
+
+Excel 2021 Advanced Tutorial https://www.youtube.com/watch?v=y4bA2CNScg8
+
+Microsoft Excel - Excel from Beginner to Advanced https://www.youtube.com/watch?v=8dyfOBOeHDY
+
+
+Excel to Power BI [Full Course] https://www.youtube.com/watch?v=gjnnqsdvAc0
+
+
+Power BI https://www.youtube.com/watch?v=Z2t7l8b1uWU&list=PLmd91OWgLVSKQlDJaOF1XmKghKturU5qK
+
+End to End Tutorials - Analytics https://www.youtube.com/watch?v=wI4HWGlI6gM&list=PLjNd3r1KLjQsZ7VDfhSvSjLmEf6BQTLLj
+
+Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners https://www.youtube.com/watch?v=8aV5AxJrHDg
+
+
+ 
+ 
+
+
+
+
