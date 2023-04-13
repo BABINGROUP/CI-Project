@@ -9,5 +9,9 @@ Ubuntu Linux Full Course in One Video || Ubuntu Tutorial for beginner to advance
 HTML CSS JS projects https://www.youtube.com/watch?v=-7JSF_aATJg
 
 
+JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advanced https://www.youtube.com/watch?v=xc3a_CJhjCc
+
+
+React JS Tutorial - Basic to Advance (2023) https://www.youtube.com/watch?v=cd3P3yXyx30
 
 
