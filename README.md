@@ -19,3 +19,9 @@ Full HTTP Networking Course – Fetch and REST APIs in JavaScript https://www.yo
 
 Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling https://www.youtube.com/watch?v=0cPCMIuDk2I
 
+Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment https://www.youtube.com/watch?v=uoJ0Tv-BFcQ
+
+
+Build and Deploy a Web3 Blockchain Crowdfunding Platform https://www.youtube.com/watch?v=BDCT6TYLYdI
+
+Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=mqUN4N2q4qY
