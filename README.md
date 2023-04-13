@@ -25,3 +25,6 @@ Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, 
 Build and Deploy a Web3 Blockchain Crowdfunding Platform https://www.youtube.com/watch?v=BDCT6TYLYdI
 
 Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023) https://www.youtube.com/watch?v=mqUN4N2q4qY
+
+
+HTML & CSS Full Course - Beginner to Pro https://www.youtube.com/watch?v=G3e-cpL7ofc
