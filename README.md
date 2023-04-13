@@ -58,7 +58,7 @@ End to End Tutorials - Analytics https://www.youtube.com/watch?v=wI4HWGlI6gM&lis
 Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners https://www.youtube.com/watch?v=8aV5AxJrHDg
 
 
- 
+ JavaScript Test Automation Complete Tutorial | Selenium JavaScript Tutorial | LambdaTest https://www.youtube.com/watch?v=BQ-9e13kJ58
  
 
 
