@@ -15,3 +15,7 @@ JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advance
 React JS Tutorial - Basic to Advance (2023) https://www.youtube.com/watch?v=cd3P3yXyx30
 
 
+Full HTTP Networking Course – Fetch and REST APIs in JavaScript https://www.youtube.com/watch?v=2JYT5f2isg4
+
+Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling https://www.youtube.com/watch?v=0cPCMIuDk2I
+
