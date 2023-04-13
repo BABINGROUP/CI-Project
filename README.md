@@ -60,6 +60,9 @@ Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners https://www.you
 
  JavaScript Test Automation Complete Tutorial | Selenium JavaScript Tutorial | LambdaTest https://www.youtube.com/watch?v=BQ-9e13kJ58
  
+ 
+ JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advanced https://www.youtube.com/watch?v=xc3a_CJhjCc&t=10s
+ 
 
 
 
